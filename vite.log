@@ -1,0 +1,22 @@
+
+> netaudit-ai-frontend@1.0.0 dev
+> vite
+
+
+  [32m[1mVITE[22m v6.4.3[39m  [2mready in [0m[1m2025[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+[2m  [32m➜[39m  [1mNetwork[22m[2m: use [22m[1m--host[22m[2m to expose[22m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+[2m4:21:21 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\HP\OneDrive\Documents\Default Project\netaudit-ai\frontend\src\components\VulnTable.jsx, /src/index.css[22m
+[2m4:21:21 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\HP\OneDrive\Documents\Default Project\netaudit-ai\frontend\src\components\VulnTable.jsx, /src/index.css[22m
+[2m4:21:23 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\HP\OneDrive\Documents\Default Project\netaudit-ai\frontend\src\components\KpiCards.jsx, /src/index.css[22m
+[2m4:21:24 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\HP\OneDrive\Documents\Default Project\netaudit-ai\frontend\src\components\KpiCards.jsx, /src/index.css[22m
+[2m4:21:25 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\HP\OneDrive\Documents\Default Project\netaudit-ai\frontend\src\components\KpiCards.jsx, /src/index.css[22m
+[2m4:21:26 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/Reports.jsx, /src/index.css[22m
+[2m4:21:27 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/Reports.jsx, /src/index.css[22m
+[2m4:26:51 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/ScanConfig.jsx, /src/index.css[22m
+[2m4:27:08 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/ScanConfig.jsx, /src/index.css[22m
+[2m4:27:09 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/index.css, /src/pages/Dashboard.jsx, /src/pages/Reports.jsx, /@fs/C:\Users\HP\OneDrive\Documents\Default Project\netaudit-ai\frontend\src\components\UploadZone.jsx, /@fs/C:\Users\HP\OneDrive\Documents\Default Project\netaudit-ai\frontend\src\components\PatchModal.jsx[22m
+[2m4:27:26 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\HP\OneDrive\Documents\Default Project\netaudit-ai\frontend\src\components\UploadZone.jsx, /src/index.css[22m
+[2m4:27:28 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/@fs/C:\Users\HP\OneDrive\Documents\Default Project\netaudit-ai\frontend\src\components\UploadZone.jsx, /src/index.css[22m
