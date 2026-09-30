@@ -6,3 +6,4 @@ dist/
 .vscode/
 .env
 .DS_Store
+__pycache__/
